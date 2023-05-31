@@ -4,7 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/src/config/firebase.ts
+social-media-app/src/config/firebase.ts
 # testing
 /coverage
 
